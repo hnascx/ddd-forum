@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import type { Answer } from '../entities/answer'
+import { Answer } from '../entities/answer'
 import { AnswerRepository } from '../repositories/answers-repository'
 import { AnswerQuestionUseCase } from './answer-question'
 
