@@ -7,9 +7,9 @@ export class Slug {
 
   /**
    * Receives a string and normalize it as a slug
-   * 
+   *
    * Example: "My first post" => "my-first-post"
-   * 
+   *
    * @param text {string}
    */
 
